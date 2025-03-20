@@ -14,7 +14,6 @@ export const dialogueData = {
     Contact me at charifnusaibah01.com if you have any interesting job opportunities!`,
     projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
     Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas.`,
-    library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
-    I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
+    library: `There are a lot of programming books on my shelves as well as some japanese study guides. I'm trying to learn Japanese in my free time.`,
     exit: `If you want to exit Nusaibah's portfolio, just close the tab.`,
   };
