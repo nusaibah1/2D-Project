@@ -1,12 +1,20 @@
 @font-face {
     font-family: monogram;
     src: url("/monogram.ttf");
-  }
 
+  }
+@font-face {
+  font-family: MintsodaLimeGreen;
+  src: url("/public/MintsodaLimeGreen13X16Regular-KVvzA.ttf");
+}
   body {
     font-family: monogram, monospace;
+    
     font-size: 2rem;
     overflow: hidden;
+  }
+  span{
+    font-family: "MintsodaLimeGreen", monogram, monospace;
   }
 
   #app {
