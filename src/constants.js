@@ -5,7 +5,7 @@ export const dialogueData = {
       . I also like Golang and Python. Anyway regardless of the language, I just like programming.
       Here is my <a href="https://github.com/Nusaibah1" target="_blank">Github</a>!`,
     "cs-degree": `CS degree incoming...I'm hoping to expand my theoretical knowledge of computer science.`,
-    "sofa-table": `That's my sofa. I like to relax here and read comics. My current reading list includes Eleceed, Maru is a puppy and Special Civil Servant.`,
+    "sofa-table": `That's my sofa. I like to relax here and read comics. My current reading list includes Eleceed, Maru is a puppy and On the way to find Mom.`,
     tv: `That's my TV. I've been watching tech youtubers a lot recently like :
      <a href="https://www.youtube.com/@nashallery" target="_blank">Nashallery</a>, <a href="https://www.youtube.com/@freecodecamp">Free Code Camp</a>,
     <a href="https://www.youtube.com/@thecodedose" target="_blank">The Code Dose</a> and <a href="https://www.youtube.com/@DibyoshreeSarkar" target="_blank">DibyoshreeSarkar</a>!`,
